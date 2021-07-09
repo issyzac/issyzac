@@ -1,12 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋 it's Okello
-
-Currently working on building my self as an Android Mobile Developer.
-
-- 🤔 I'm an IT undergrad student at Masinde Muliro University of Science and Technology.    
-- 🌱 I’m currently learning Kotlin.
-- ⚡ Based in Kakamega, Kenya.
+### Hi there 👋 it's Isaya
 
 ![](https://komarev.com/ghpvc/?username=okelloEnos&color=green)
 
