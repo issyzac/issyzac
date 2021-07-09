@@ -1,6 +1,6 @@
 ### Hi there 👋 it's Isaya
 
-![](https://komarev.com/ghpvc/?username=okelloEnos&color=green)
+![](https://komarev.com/ghpvc/?username=issyzac&color=green)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issyzac&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
