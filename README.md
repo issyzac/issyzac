@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=issyzac&color=green)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issyzac&show_icons=true&theme=dark)](https://github.com/issyzac)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issyzac)](https://github.com/issyzac)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issyzac&show_icons=true&theme=dracula&count_private=true)](https://github.com/issyzac)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okelloEnos)](https://github.com/anuraghazra/github-readme-stats)
 -->
