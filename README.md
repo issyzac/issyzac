@@ -4,6 +4,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issyzac&show_icons=true&theme=dark)](https://github.com/issyzac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issyzac)](https://github.com/issyzac)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okelloEnos)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### 📫 Lets stay connected :
